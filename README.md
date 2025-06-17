@@ -38,13 +38,13 @@
 
 ---
 
-### 📈 GitHub Stats
+//### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritin1308&theme=react" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ritin1308&show_icons=true&theme=react" />
-</p>
+</p>//
 
 ---
 
