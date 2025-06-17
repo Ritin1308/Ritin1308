@@ -38,16 +38,9 @@
 
 ---
 
-//### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritin1308&theme=react" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ritin1308&show_icons=true&theme=react" />
-</p>//
 
 ---
 
 ### 📫 Let's Connect
-- 📧 **ritinpanwar1308@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ritin-panwar/)  
+- 📧 **ritin02panwar@gmail.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ritinpanwar/)  
